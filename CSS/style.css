@@ -1,0 +1,38 @@
+body {
+  background-color: #32cd32;
+  font-family: Verdana;
+}
+.center{
+  margin: auto;
+  text-align: center;
+}
+.divbutton{
+  text-align: center;
+}
+button {
+  margin: 0 auto;
+  width: 300px;
+}
+
+h1 { 
+}
+
+main {
+  width: 309px;
+  height: 300px;
+  background-color: white;
+}
+
+.tiles{
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  border: 1px solid grey;
+  margin: -2px -2px -1px -2px;
+  font-size: 70px;
+}
+
+.rowB {
+  position: absolute;
+  top: 100px;
+}
